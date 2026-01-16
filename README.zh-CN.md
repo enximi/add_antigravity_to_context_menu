@@ -55,6 +55,7 @@ Stop-Process -Name explorer -Force; Start-Process explorer
 - 两个脚本都需要管理员权限（会自动请求）
 - 默认 Antigravity 安装路径：`%LOCALAPPDATA%\Programs\Antigravity\Antigravity.exe`
 - 如果安装在其他位置，需要修改脚本中的路径
+- 脚本输出信息为英文
 
 ## 📄 License
 

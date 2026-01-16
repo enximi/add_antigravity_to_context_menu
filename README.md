@@ -50,13 +50,6 @@ Stop-Process -Name explorer -Force; Start-Process explorer
 
 Or sign out and sign back in.
 
-## 🌐 Language Support
-
-The scripts automatically detect your system language:
-
-- **Chinese (zh-\*)**: Shows Chinese messages
-- **Other languages**: Shows English messages (default)
-
 ## 📝 Notes
 
 - Both scripts require administrator privileges (auto-elevated)
